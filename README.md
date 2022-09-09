@@ -25,51 +25,40 @@ https://user-images.githubusercontent.com/89781598/189283665-24a8493d-e092-43fd-
 ## 패키지 사용
 
 <p align="center">
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>&nbsp
   <br>
-    <img src="https://img.shields.io/badge/-statsmodel-green"/></a>&nbsp
-    <img src="https://img.shields.io/badge/-itertools-black"/></a>&nbsp
-    <img src="https://img.shields.io/badge/-catboost-yellow"/></a>&nbsp
-    <img src="https://img.shields.io/badge/-byes_opt-blueviolet"/></a>&nbsp
+    <img src="https://img.shields.io/badge/-pyautogui-blue"/></a>&nbsp
+    <img src="https://img.shields.io/badge/-matplotlib-blue"/></a>&nbsp
+    <img src="https://img.shields.io/badge/-undetected chromedriver-black"/></a>&nbsp
+    <img src="https://img.shields.io/badge/-time-black"/></a>&nbsp
+    <img src="https://img.shields.io/badge/-PIL-green"/></a>&nbsp
     
 </p>
 
 ## 파일 구조
 ```
-📦KT.BAD_WEB
- ┣ 📂CSV
- ┃ ┣ 📜cat_esb_best2.csv
- ┃ ┣ 📜CONFIG_RESULT.csv
- ┃ ┗ 📜logistic_result.csv
+📦KT.GatherTown-Selenium
  ┣ 📂PT
- ┃ ┣ 📜부산경남_안중찬.pdf
- ┃ ┗ 📜부산경남_안중찬.pptx
- ┣ 📜01.EDA.ipynb
- ┣ 📜02.CONFIG.ipynb
- ┣ 📜03.Bayesian-Optimization.ipynb
- ┗ 📜04.SUBMIT.ipynb
+ ┃ ┣ 📜메타버스 스터디룸 결과물 제출_AI 부산경남 8반 안중찬.pdf
+ ┃ ┗ 📜메타버스 스터디룸 결과물 제출_AI 부산경남 8반 안중찬.pptx
+ ┣ 📜aivle.png
+ ┣ 📜chromedriver.exe
+ ┗ 📜Metaverse_floor.ipynb
 ```
 
 ## 파일 설명
-- EDA.ipynb
-    - EDA에 관련된 코드들이 담겨져있습니다.
-- CONFIG.ipynb
-    - CONFIG To Select에 대한 코드가 담겨져있습니다.(자세한 내용은 위의 불로그 참조)
-- Bayesian-Optimization.ipynb
-    - Bayesian-Optimization으로 하이퍼 파라미터 튜닝을 한 코드들이 담겨져 있습니다.
-- SUBMIT.ipynb
-    - 최종 제출된 모델의 코드가 담겨져 있습니다.
-- 부산경남_안중찬.pdf,pptx
-    - 모델에 대한 설명이 담겨져 있습니다. AIVLE SCHOOL에서 프레젠테이션을 진행하였습니다.
-- cat_esb_best2.csv
-    - 성능이 가장 좋은 모델이 예측한 값입니다.
-- CONFIG_RESULT.csv
-    - Config to Select의 결과입니다.
-- logistic_result.csv
-    - logistic 검정의 결과입니다.
+- 메타버스 스터디룸 결과물 제출_AI 부산경남 8반 안중찬.pdf,pptx
+    - 프로젝트에 대한 설명이 담겨져 있습니다.
+- aivle.png
+    - aivle school 로고 이미지입니다.
+- chromedriver.exe
+    - 크롬 드라이버입니다.
+- Meatverse_floor.ipynb
+    - 프로젝트 수행 코드입니다.
 
 ## 문의사항
 * email : ajc227ung@gmail.com
