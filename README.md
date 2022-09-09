@@ -3,6 +3,12 @@
 ## 개요
 * 본 프로젝트는 KT AIVLE SCHOOL에서 진행한 메타버스 스터디룸 제작 이벤트입니다.
 * 셀레니움을 이용해 게더타운 로그인과, 미리 지정해둔 이미지를 그대로 게더타운 바닥에 깔아주는 작업을 자동화시킵니다.
+* 프로젝트에 대한 대략적인 개요는 아래의 이미지로 대체합니다.
+* 미리 지정해둔 이미지를 그대로 게더타운 바닥에 깔아주는 작업을 한 이후에, 게더타운을 예쁘게 꾸며주는 것까지 했습니다!
+![슬라이드1](https://user-images.githubusercontent.com/89781598/189295868-91637130-2e48-4385-9c54-1eebad2b954c.JPG)
+![슬라이드2](https://user-images.githubusercontent.com/89781598/189295873-ad0f87fd-155f-4d6c-b310-4b0e85ff23c7.JPG)
+![슬라이드3](https://user-images.githubusercontent.com/89781598/189295878-2979a23f-c593-4a05-a8b2-4655af2e47e9.JPG)
+![슬라이드4](https://user-images.githubusercontent.com/89781598/189295882-1481d766-693e-4b19-beff-471d466808fa.JPG)
 
 ## 자동화 영상
 https://user-images.githubusercontent.com/89781598/189283665-24a8493d-e092-43fd-8f33-dd7e32aa4722.mp4
